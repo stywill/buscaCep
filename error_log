@@ -1,0 +1,4 @@
+[28-Jul-2016 11:36:04 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/ispedcom/public_html/clientewebservice/soap/nusoap.php on line 75
+[28-Jul-2016 11:36:04 America/Sao_Paulo] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/ispedcom/public_html/clientewebservice/soap/nusoap.php on line 2672
+[28-Jul-2016 11:51:48 America/Sao_Paulo] PHP Warning:  Creating default object from empty value in /home/ispedcom/public_html/clientewebservice/soap/nusoap.php on line 75
+[28-Jul-2016 11:51:48 America/Sao_Paulo] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/ispedcom/public_html/clientewebservice/soap/nusoap.php on line 2672
